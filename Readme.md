@@ -1,3 +1,4 @@
+![App UI](/frontend/public/image.png)
 # Ride Booking Application
 
 ## Overview
