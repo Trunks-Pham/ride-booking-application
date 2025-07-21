@@ -537,7 +537,7 @@ function App() {
 
         <div className="booking-panel">
           <div className="panel-header">
-            <h2>Đặt Xe</h2>
+            <h2>Đặt Xe Siêu Tốc</h2>
           </div>
 
           <div className="panel-content">
