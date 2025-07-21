@@ -8,7 +8,7 @@ import "leaflet-routing-machine";
 import "leaflet-routing-machine/dist/leaflet-routing-machine.css";
 
 // URL constants
-const API_BASE_URL = "http://192.168.1.20:5000";
+const API_BASE_URL = "https://ride-booking-application-x3wy.onrender.com:5000";
 
 // Sửa biểu tượng mặc định của Leaflet
 delete L.Icon.Default.prototype._getIconUrl;
